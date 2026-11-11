@@ -1,0 +1,22 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Employe","order":1,"path":"folders/Sprites/Employe.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_camera","order":4,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_radar","order":5,"path":"objects/obj_radar/obj_radar.yy",},
+    {"name":"Object5","order":6,"path":"objects/Object5/Object5.yy",},
+    {"name":"oWall","order":3,"path":"objects/oWall/oWall.yy",},
+    {"name":"spr_player_box","order":1,"path":"sprites/spr_player_box/spr_player_box.yy",},
+    {"name":"spr_player_crucifix","order":5,"path":"sprites/spr_player_crucifix/spr_player_crucifix.yy",},
+    {"name":"spr_player_flashlight","order":3,"path":"sprites/spr_player_flashlight/spr_player_flashlight.yy",},
+    {"name":"spr_player_radar","order":4,"path":"sprites/spr_player_radar/spr_player_radar.yy",},
+    {"name":"spr_player_vacuum","order":2,"path":"sprites/spr_player_vacuum/spr_player_vacuum.yy",},
+    {"name":"Sprite2_1","order":3,"path":"sprites/Sprite2_1/Sprite2_1.yy",},
+    {"name":"Sprite2","order":2,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite9","order":4,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"TileSet1","order":7,"path":"tilesets/TileSet1/TileSet1.yy",},
+  ],
+}
